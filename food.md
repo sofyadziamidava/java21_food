@@ -6,13 +6,15 @@
 ## Description
 
 
-## The nice Description
+ The nice Description
 
-## Make a toast first you need bread
+1 Make a toast first you need bread
 
-## Then you fetch some tomatoes
+2 Then you fetch some tomatoes
 
-## Last you put much cheese on it!!
+3 Last you put much cheese on it!!
+
+4 Give it some salt.
 
 ## Price
 
