@@ -12,9 +12,9 @@
 
 2 Then you fetch some tomatoes
 
-3 Last you put much cheese on it!!
+3 You put much cheese on it!!
 
-4 Give it some salt.
+4 Lastly Give it some salt.
 
 ## Price
 
