@@ -1,6 +1,10 @@
 # Food.md
 ## list of ingredients
+* tomato 
+* cheese
+* bread
 ## Description
+
 
 ## The nice Description
 
@@ -9,3 +13,11 @@
 ## Then you fetch some tomatoes
 
 ## Last you put much cheese on it!!
+
+## Price
+
+- 100
+- 200
+- 300
+- 400
+
